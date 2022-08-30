@@ -1,0 +1,15 @@
+C:\Users\ASC_Student1\Desktop\Tutorial Projects\dayh\dayh\bin\Debug\net6.0\dayh.exe
+C:\Users\ASC_Student1\Desktop\Tutorial Projects\dayh\dayh\bin\Debug\net6.0\dayh.deps.json
+C:\Users\ASC_Student1\Desktop\Tutorial Projects\dayh\dayh\bin\Debug\net6.0\dayh.runtimeconfig.json
+C:\Users\ASC_Student1\Desktop\Tutorial Projects\dayh\dayh\bin\Debug\net6.0\dayh.dll
+C:\Users\ASC_Student1\Desktop\Tutorial Projects\dayh\dayh\bin\Debug\net6.0\dayh.pdb
+C:\Users\ASC_Student1\Desktop\Tutorial Projects\dayh\dayh\obj\Debug\net6.0\dayh.csproj.AssemblyReference.cache
+C:\Users\ASC_Student1\Desktop\Tutorial Projects\dayh\dayh\obj\Debug\net6.0\dayh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASC_Student1\Desktop\Tutorial Projects\dayh\dayh\obj\Debug\net6.0\dayh.AssemblyInfoInputs.cache
+C:\Users\ASC_Student1\Desktop\Tutorial Projects\dayh\dayh\obj\Debug\net6.0\dayh.AssemblyInfo.cs
+C:\Users\ASC_Student1\Desktop\Tutorial Projects\dayh\dayh\obj\Debug\net6.0\dayh.csproj.CoreCompileInputs.cache
+C:\Users\ASC_Student1\Desktop\Tutorial Projects\dayh\dayh\obj\Debug\net6.0\dayh.dll
+C:\Users\ASC_Student1\Desktop\Tutorial Projects\dayh\dayh\obj\Debug\net6.0\refint\dayh.dll
+C:\Users\ASC_Student1\Desktop\Tutorial Projects\dayh\dayh\obj\Debug\net6.0\dayh.pdb
+C:\Users\ASC_Student1\Desktop\Tutorial Projects\dayh\dayh\obj\Debug\net6.0\dayh.genruntimeconfig.cache
+C:\Users\ASC_Student1\Desktop\Tutorial Projects\dayh\dayh\obj\Debug\net6.0\ref\dayh.dll

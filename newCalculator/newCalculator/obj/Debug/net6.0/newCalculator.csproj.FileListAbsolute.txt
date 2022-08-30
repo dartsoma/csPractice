@@ -1,0 +1,15 @@
+C:\Users\ASC_Student1\Desktop\Tutorial Projects\newCalculator\newCalculator\bin\Debug\net6.0\newCalculator.exe
+C:\Users\ASC_Student1\Desktop\Tutorial Projects\newCalculator\newCalculator\bin\Debug\net6.0\newCalculator.deps.json
+C:\Users\ASC_Student1\Desktop\Tutorial Projects\newCalculator\newCalculator\bin\Debug\net6.0\newCalculator.runtimeconfig.json
+C:\Users\ASC_Student1\Desktop\Tutorial Projects\newCalculator\newCalculator\bin\Debug\net6.0\newCalculator.dll
+C:\Users\ASC_Student1\Desktop\Tutorial Projects\newCalculator\newCalculator\bin\Debug\net6.0\newCalculator.pdb
+C:\Users\ASC_Student1\Desktop\Tutorial Projects\newCalculator\newCalculator\obj\Debug\net6.0\newCalculator.csproj.AssemblyReference.cache
+C:\Users\ASC_Student1\Desktop\Tutorial Projects\newCalculator\newCalculator\obj\Debug\net6.0\newCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASC_Student1\Desktop\Tutorial Projects\newCalculator\newCalculator\obj\Debug\net6.0\newCalculator.AssemblyInfoInputs.cache
+C:\Users\ASC_Student1\Desktop\Tutorial Projects\newCalculator\newCalculator\obj\Debug\net6.0\newCalculator.AssemblyInfo.cs
+C:\Users\ASC_Student1\Desktop\Tutorial Projects\newCalculator\newCalculator\obj\Debug\net6.0\newCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ASC_Student1\Desktop\Tutorial Projects\newCalculator\newCalculator\obj\Debug\net6.0\newCalculator.dll
+C:\Users\ASC_Student1\Desktop\Tutorial Projects\newCalculator\newCalculator\obj\Debug\net6.0\refint\newCalculator.dll
+C:\Users\ASC_Student1\Desktop\Tutorial Projects\newCalculator\newCalculator\obj\Debug\net6.0\newCalculator.pdb
+C:\Users\ASC_Student1\Desktop\Tutorial Projects\newCalculator\newCalculator\obj\Debug\net6.0\newCalculator.genruntimeconfig.cache
+C:\Users\ASC_Student1\Desktop\Tutorial Projects\newCalculator\newCalculator\obj\Debug\net6.0\ref\newCalculator.dll

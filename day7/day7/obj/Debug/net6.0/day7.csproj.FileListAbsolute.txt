@@ -1,0 +1,15 @@
+C:\Users\ASC_Student1\Desktop\Tutorial Projects\day7\day7\obj\Debug\net6.0\day7.csproj.AssemblyReference.cache
+C:\Users\ASC_Student1\Desktop\Tutorial Projects\day7\day7\obj\Debug\net6.0\day7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASC_Student1\Desktop\Tutorial Projects\day7\day7\obj\Debug\net6.0\day7.AssemblyInfoInputs.cache
+C:\Users\ASC_Student1\Desktop\Tutorial Projects\day7\day7\obj\Debug\net6.0\day7.AssemblyInfo.cs
+C:\Users\ASC_Student1\Desktop\Tutorial Projects\day7\day7\obj\Debug\net6.0\day7.csproj.CoreCompileInputs.cache
+C:\Users\ASC_Student1\Desktop\Tutorial Projects\day7\day7\bin\Debug\net6.0\day7.exe
+C:\Users\ASC_Student1\Desktop\Tutorial Projects\day7\day7\bin\Debug\net6.0\day7.deps.json
+C:\Users\ASC_Student1\Desktop\Tutorial Projects\day7\day7\bin\Debug\net6.0\day7.runtimeconfig.json
+C:\Users\ASC_Student1\Desktop\Tutorial Projects\day7\day7\bin\Debug\net6.0\day7.dll
+C:\Users\ASC_Student1\Desktop\Tutorial Projects\day7\day7\bin\Debug\net6.0\day7.pdb
+C:\Users\ASC_Student1\Desktop\Tutorial Projects\day7\day7\obj\Debug\net6.0\day7.dll
+C:\Users\ASC_Student1\Desktop\Tutorial Projects\day7\day7\obj\Debug\net6.0\refint\day7.dll
+C:\Users\ASC_Student1\Desktop\Tutorial Projects\day7\day7\obj\Debug\net6.0\day7.pdb
+C:\Users\ASC_Student1\Desktop\Tutorial Projects\day7\day7\obj\Debug\net6.0\day7.genruntimeconfig.cache
+C:\Users\ASC_Student1\Desktop\Tutorial Projects\day7\day7\obj\Debug\net6.0\ref\day7.dll
